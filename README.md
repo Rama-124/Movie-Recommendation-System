@@ -35,8 +35,7 @@ Follow these steps to set up and run the application:
 
 1. **Clone the Repository:** 
     ```bash
-    git clone (https://github.com/MaramMaruthiChethan/movie-recommendation-system.git)
-    ```
+   [ git clone (https://github.com/Rama-124/Movie-Recommendation-System)]
 
 2. **Create a Virtual Environment:** 
    Make sure you have a virtual environment set up for your project.
